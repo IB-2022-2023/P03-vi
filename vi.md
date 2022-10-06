@@ -15,6 +15,33 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 * Ha de acreditarse que se es capaz de conectarse a la máquina virtual de la asignatura y ejecutar comandos básicos de Linux 
 
 ### Introducción
+Todo usuario de linux que se precie debiera saber utilizar el editor vi.  
+Son varias las áreas en las que necesitará usar un editor de texto: la programación o la edición de ficheros de configuración son dos de las más relevantes.
+Hay varios editores de texto notables que encontrarás por ahí para los sistemas operativos basados en Linux.
+Los usuarios de terminal gráfica utilizarán el editor por defecto de su distribución, pero si se accede al fichero desde la terminal, 
+o a través de `ssh` en otro servidor, con frecuencia tendrá que editar el texto utilizando uno de los conocidos editores en terminal.
+Existen otros editores más sencillos de utilizar, pero puede que Ud. acceda a una máquina que no disponga de ellos y que no le permita 
+instalar su propio editor, de modo que conocer vi podrá sacarle de más de un apuro.
+
+Vi fue el primer editor de texto orientado al terminal creado para Unix, fue diseñado para ser simple pero potente en cuanto a la manipulación de texto.
+Vim (Vi IMproved), como su nombre indica, es un clon de Vi y ofrece aún más funciones que éste. 
+Es gratuito y de código abierto, y está diseñado para ser utilizado tanto desde una interfaz de línea de comandos 
+como en forma de aplicación independiente en una interfaz gráfica de usuario (GUI).
+
+Es altamente configurable y dispone de características notables como resaltado de sintaxis, soporte para ratón, versiones gráficas, modo visual, 
+muchos comandos de edición nuevos y una gran cantidad de extensiones.
+A modo de resumen, se indican a continuación algunas de las características por las que utilizaremos vi en
+**Informática Básica**:
+
+1. Es gratuito y de código abierto
+2. Está siempre disponible. Está disponible en la mayoría, si no en todas las distribuciones de Linux existentes.
+3. Está bien documentado. Es muy fácil hallar información sobre cualquier duda sobre su uso.
+5. Es muy personalizable y extensible
+6. Tiene configuraciones portátiles
+7. Utiliza menos recursos del sistema
+8. Es compatible con todos los lenguajes de programación y formatos de archivo
+9. Es muy popular en el mundo de Linux
+
 
 ### Funciones
 * Comenzar la edición de un fichero de texto en vi usando la ruta (path) absoluta del fichero
