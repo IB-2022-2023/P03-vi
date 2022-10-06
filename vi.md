@@ -49,13 +49,31 @@ permite aprender lo básico sobre cómo editar y modificar un fichero usando vi.
 El [tutorial interactivo on-line](https://www.openvim.com/) 
 enseña el uso del editor de forma interactiva.
 [Este otro tutorial](https://github.com/Izaird/Vim-primeros-pasos) explica lo básico del editor a través de ejemplos concretos con ficheros de texto.
-Por último, tanto
+Igualmente tanto
 [el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
-de una asignatura de Stanford como el del MIT 
-[vim](https://missing.csail.mit.edu/2020/editors/) 
-xxx
+de una asignatura de Stanford como el de la lección
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/editors/) 
+del MIT también son dos buenos tutoriales de iniciación.
+
+Por último la 
+[Vim Quick Reference Card](http://www.cheat-sheets.org/saved-copy/vimqrc.pdf)
+que tiene también disponible a través del aula virtual de la asignatura es una hoja que merece la pena
+imprimir y tener disponible en sus primeras sesiones de edición.
+Recuerde imprimirla y llevarla consigo a la evaluación de esta práctica.
+
+Elija de los anteriores el tutorial que prefiera, y no se conforme con estudiar solo uno de ellos.
 
 ### Funciones
+Asegúrese de saber cómo realizar en vim cada una de las tareas que se exponen a continuación.
+Si no obtiene la información necesaria en alguno de los tutoriales, también es un buen recurso
+consultar
+[Stackoverflow](https://stackoverflow.com/questions/tagged/vim)
+donde podrá hallar multitud de preguntas/respuestas sobre el editor.
+
+Estas son algunas de las tareas que debe ser capaz de realizar en vim.
+Subraye o marque de algún modo cada una de ellas en su copia de la 
+[Vim Quick Reference Card](http://www.cheat-sheets.org/saved-copy/vimqrc.pdf)
+
 * Comenzar la edición de un fichero de texto en vi usando la ruta (path) absoluta del fichero
 * Desplazarse dentro del fichero en todas las direcciones (líneas arriba/abajo y derecha/izquierda dentro de
   cada línea
