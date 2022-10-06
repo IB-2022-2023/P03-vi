@@ -1,17 +1,12 @@
-# Lab assignment (lab, class presentation with slides) structure
+# Informática Básica Lab assignment 
 
-This directory is organised as follows:
- ```     
-   ├── docs               # All kind of project documentation files
-   ├── .gitignore         # Hiden .gitignore file for your source code programming language
-   ├── img                # Image resources if needed
-   ├── LICENSE
-   ├── README.md          # This file
-   ├── src                # Source code
-   └── tests              # Source code for tests, if included
-```
-For each assignment there should be a markdown file with the assignment description.
-Find that file and follow the instructions on it.
+This is a repository to host the code of your lab assignments
+Create an appropriate directory structure to hold your project
+If your assignment includes different exercises, use different directories for each
 
-**Before** the evaluation session of the assignment, **do not forget** to upload the (git) link to your repository to the Moodle classroom.
-**Remember also** to remove all empty directories in the final version of the project
+**Remember also** to remove all binary files and empty directories in the final version of the project
+
+This text is Markdown text. To learn about Markdown, Study these references:
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [StackEdit. An On-line MarkDown Editor](https://stackedit.io/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
