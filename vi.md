@@ -17,6 +17,10 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 ### Introducción
 
 ### Funciones
-* Comenzar la edición de un fichero de texto en vi usando la ruta (path) absoluta de ese fichero
+* Comenzar la edición de un fichero de texto en vi usando la ruta (path) absoluta del fichero
 * Desplazarse dentro del fichero en todas las direcciones (líneas arriba/abajo y derecha/izquierda dentro de
   cada línea
+* Desplazarse al final/principio (primera/última línea) del fichero
+* Desplazarse en una línea de texto a la izquierda/derecha avanzando de palabra en palabra
+* Abandonar la edición del fichero de diferentes modos: habiendo grabado (escrito) la sesión o sin grabar
+
