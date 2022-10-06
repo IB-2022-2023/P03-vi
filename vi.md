@@ -4,7 +4,7 @@
 
 ### Objetivos
 Los objetivos de esta práctica son que el alumnado:
-* Aprenda a utilizar el editor [vim](https://missing.csail.mit.edu/2020/editors/) 
+* Aprenda a utilizar el editor [vim](https://www.vim.org/)
   conociendo al menos los comandos básicos de edición
 * Sepa editar ficheros remotos en la VM de la asignatura usando vi
 * Sepa ejecutar comandos básicos de Linux
@@ -43,7 +43,17 @@ A modo de resumen, se indican a continuación algunas de las características po
 9. Es muy popular en el mundo de Linux
 
 ### Tutoriales
-
+En la Práctica 1 de la asignatura ya se indicaron algunas referencias para un primer contacto con vi.
+[Este tutorial](https://blog.desdelinux.net/usando-vim-tutorial-basico/) 
+permite aprender lo básico sobre cómo editar y modificar un fichero usando vi.
+El [tutorial interactivo on-line](https://www.openvim.com/) 
+enseña el uso del editor de forma interactiva.
+[Este otro tutorial](https://github.com/Izaird/Vim-primeros-pasos) explica lo básico del editor a través de ejemplos concretos con ficheros de texto.
+Por último, tanto
+[el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
+de una asignatura de Stanford como el del MIT 
+[vim](https://missing.csail.mit.edu/2020/editors/) 
+xxx
 
 ### Funciones
 * Comenzar la edición de un fichero de texto en vi usando la ruta (path) absoluta del fichero
