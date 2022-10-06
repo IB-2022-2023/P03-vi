@@ -44,11 +44,14 @@ A modo de resumen, se indican a continuación algunas de las características po
 
 ### Tutoriales
 En la Práctica 1 de la asignatura ya se indicaron algunas referencias para un primer contacto con vi.
-[Este tutorial](https://blog.desdelinux.net/usando-vim-tutorial-basico/) 
-permite aprender lo básico sobre cómo editar y modificar un fichero usando vi.
 El [tutorial interactivo on-line](https://www.openvim.com/) 
 enseña el uso del editor de forma interactiva.
 [Este otro tutorial](https://github.com/Izaird/Vim-primeros-pasos) explica lo básico del editor a través de ejemplos concretos con ficheros de texto.
+Utilice el comando 
+```
+git clone git@github.com:Izaird/Vim-primeros-pasos.git
+```
+para descargar el repositorio del tutorial y luego edite usando vim los diferentes ficheros del tutorial.
 Igualmente tanto
 [el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
 de una asignatura de Stanford como el de la lección
