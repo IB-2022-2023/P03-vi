@@ -51,7 +51,7 @@ Utilice el comando
 ```
 git clone git@github.com:Izaird/Vim-primeros-pasos.git
 ```
-para descargar el repositorio del tutorial y luego edite usando vim los diferentes ficheros del tutorial.
+para realizar una copia del repositorio y luego edite usando vim los diferentes ficheros del tutorial.
 Igualmente tanto
 [el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
 de una asignatura de Stanford como el de la lección
@@ -81,6 +81,19 @@ Subraye o marque de algún modo cada una de ellas en su copia de la
 * Desplazarse dentro del fichero en todas las direcciones (líneas arriba/abajo y derecha/izquierda dentro de
   cada línea
 * Desplazarse al final/principio (primera/última línea) del fichero
+* Desplazarse al principio/final de una determinada línea
 * Desplazarse en una línea de texto a la izquierda/derecha avanzando de palabra en palabra
+* Reemplazar un carácter por otro en una determinada línea del fichero
+* Borrar una línea del fichero
+* Borrar un rango de líneas (desde la línea N a la N+M)
+* Copiar una línea de texto (o un rango de líneas) en el buffer para luego insertar esas mismas líneas en una
+  posición diferente
+* Buscar una determinada palabra dentro del fichero
+* Reemplazar todas las apariciones de una determinada palabra por otra diferente
+* Mostrar/ocultar los números de línea en el fichero
+* Deshacer la acción realizada por el último comando ejecutado en el editor
+* Rehacer la última acción desechada
 * Abandonar la edición del fichero de diferentes modos: habiendo grabado (escrito) la sesión o sin grabar
+
+
 
