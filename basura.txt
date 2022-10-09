@@ -1,0 +1,34 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;59r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[59;1H"/usr/share/vim/vim81/tutor/tutor.es.utf-8" [Só[59;48Hlo lectura] 769 lí[59;66Hneas, 28042 characters[?2004l
+"/tmp/tutorM2z3OS" 769 lí[59;26Hneas, 28042 characters escritos[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;59r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[59;1H"/tmp/tutorM2z3OS" 769 lí[59;26Hneas, 28042 characters[1;1H===============================================================================
+=     B i e n v e n i d o   a l   t u t o r   d e   V I M  -  Versió[2;69Hn 1.4     =
+===============================================================================[5;6HVim es un editor muy potente que dispone de muchos mandatos, demasiados[6;6Hpara ser explicados en un tutor como é[6;44Hste. Este tutor está[6;65Hdiseñado[7;6Hpara describir suficientes mandatos para que usted sea capaz de[8;6Haprender fá[8;17Hcilmente a usar Vim como un editor de propó[8;60Hsito general.[10;6HEl tiempo necesario para completar el tutor es aproximadamente de 25-30[11;6Hminutos, dependiendo de cuanto tiempo se dedique a la experimentació[11;74Hn.[13;6HLos mandatos de estas lecciones modificará[13;48Hn el texto. Haga una copia de[14;6Heste fichero para practicar (con «vimtutor» esto ya es una copia).[16;6HEs importante recordar que este tutor está[16;49Hpensado para enseñar con[17;6Hla prá[17;12Hctica. Esto significa que es necesario ejecutar los mandatos[18;6Hpara aprenderlos adecuadamente. Si ú[18;42Hnicamente se lee el texto, se[19;6Holvidará[19;14Hn los mandatos.[21;6HAhora, asegú[21;18Hrese de que la tecla de bloqueo de mayú[21;57Hsculas no está[22;6Hactivada y pulse la tecla  j  lo suficiente para mover el cursor[23;6Hde forma que la Lecció[23;28Hn 1.1 ocupe completamente la pantalla.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[25;22HLecció[25;28Hn 1.1: MOVIMIENTOS DEL CURSOR
+
+ ** Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica. **[28;7H^[29;7Hk[7CIndicació[29;24Hn: La tecla h está[29;43Ha la izquierda y mueve a la izquierda.
+ < h     l >[14CLa tecla l está[30;43Ha la derecha y mueve a la derecha.[31;7Hj[19CLa tecla j parece una flecha que apunta hacia abajo.[32;7Hv
+
+  1. Mueva el cursor por la pantalla hasta que se sienta có[34;60Hmodo con ello.
+
+  2. Mantenga pulsada la tecla  j  hasta que se repita «automá[36;63Hgicamente».
+---> Ahora ya sabe como llegar a la lecció[37;43Hn siguiente.
+
+  3. Utilizando la tecla abajo, vaya a la Lecció[39;49Hn 1.2.
+
+Nota: Si alguna vez no está[41;29Hseguro sobre algo que ha tecleado, pulse <ESC>[42;7Hpara situarse en modo Normal. Luego vuelva a teclear la orden que deseaba.
+
+Nota: Las teclas de movimiento del cursor tambié[44;49Hn funcionan. Pero usando[45;7Hhjkl podrá[45;18Hmoverse mucho má[45;34Hs rá[45;38Hpido una vez que se acostumbre a ello.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[48;21HLecció[48;27Hn 1.2: ENTRANDO Y SALIENDO DE VIM
+
+  ¡[50;4H¡[50;6HNOTA: Antes de ejecutar alguno de los pasos siguientes lea primero[51;12Hla lecció[51;21Hn entera!!
+
+  1. Pulse la tecla <ESC> (para asegurarse de que está[53;56Hen modo Normal).
+
+  2. Escriba:[19C:q! <INTRO>
+
+---> Esto provoca la salida del editor SIN guardar ningú[57;57Hn cambio que se haya[58;6Hhecho. Si quiere guardar los cambios y salir escriba:[1;1H[?25h[?25l[59;208Hq[1;1H[?25h[?25l[59;209H^M[1;1H[59;208H   [1;1H[?25h[?25l[59;208Hq[1;1H[?25h[?25l[59;209H^M[1;1H[59;208H   [1;1H[?25h[?25l[59;208Hx[1;1H[59;208H [1;1H[59;208Hdl[1;1H[59;208H  [1;1H[1;79H[K[1;1H[?25h[?25l[59;208Hx[1;1H[59;208H [1;1H[59;208Hdl[1;1H[59;208H  [1;1H[1;78H[K[1;1H[?25h[?25l[59;208H^M[1;1H[59;208H  [2;1H[?25h[?25l[59;208Hc[2;1H[?25h[?25l[59;209H^M[2;1H[59;208H   [2;1H[59;1H[1m-- INSERTAR --[m[59;15H[K[2;58r[58;1H
+[1;59r[2;1H[K[58;33H:wq <INTRO>[2;1H[?25h[?25lc[?25h[?25lc[?25h[?25lc[?25h[59;1H[?2004l[?2004l[?1l>[>4;m[?1049l[23;0;0tVim: error al leer la entrada, saliendo...
+Vim: preserving files...
+Vim: Finished.
+[59;1H[23;2t[23;1t[J

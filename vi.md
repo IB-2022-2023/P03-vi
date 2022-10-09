@@ -103,5 +103,9 @@ Subraye o marque de algún modo cada una de ellas en su copia de la
 * Rehacer la última acción desechada
 * Abandonar la edición del fichero de diferentes modos: habiendo grabado (escrito) la sesión o sin grabar
 
-
-
+Por último, estudie también aquellos comandos de linux que tienen relación con la gestión de ficheros.
+En particular estudie (con sus páginas de manual) y practique los comandos 
+[file](https://ss64.com/bash/file.html),
+[grep](https://ss64.com/bash/grep.html),
+[wc](https://ss64.com/bash/wc.html) y
+[find](https://ss64.com/bash/find.html)
