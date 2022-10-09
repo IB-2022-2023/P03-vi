@@ -91,6 +91,7 @@ Subraye o marque de algún modo cada una de ellas en su copia de la
 * Desplazarse al final/principio (primera/última línea) del fichero
 * Desplazarse al principio/final de una determinada línea
 * Desplazarse en una línea de texto a la izquierda/derecha avanzando de palabra en palabra
+* Desplazarse una página arriba/abajo dentro del fichero
 * Reemplazar un carácter por otro en una determinada línea del fichero
 * Borrar una línea del fichero
 * Borrar un rango de líneas (desde la línea N a la N+M)
