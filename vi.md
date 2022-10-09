@@ -74,7 +74,7 @@ Recuerde imprimirla y llevarla consigo a la evaluación de esta práctica.
 
 Elija de los anteriores el tutorial que prefiera, y no se conforme con estudiar solo uno de ellos.
 
-### Funciones
+### Funciones de edición de ficheros de texto
 Asegúrese de saber cómo realizar en vim cada una de las tareas que se exponen a continuación.
 Si no obtiene la información necesaria en alguno de los tutoriales, también es un buen recurso
 consultar
@@ -103,6 +103,7 @@ Subraye o marque de algún modo cada una de ellas en su copia de la
 * Rehacer la última acción desechada
 * Abandonar la edición del fichero de diferentes modos: habiendo grabado (escrito) la sesión o sin grabar
 
+### Comandos Linux útiles a la hora de procesar ficheros de texto
 Por último, estudie también aquellos comandos de linux que tienen relación con la gestión de ficheros.
 En particular estudie (con sus páginas de manual) y practique los comandos 
 [file](https://ss64.com/bash/file.html),
