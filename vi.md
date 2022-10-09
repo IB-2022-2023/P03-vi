@@ -20,7 +20,9 @@ Todo usuario de Linux que se precie debiera saber utilizar el editor vi.
 Son varias las áreas en las que necesitará usar un editor de texto: la programación o la edición de ficheros de configuración del sistema son dos de las más relevantes.
 Hay varios editores de texto notables disponibles para sistemas operativos basados en Linux.
 Los usuarios de terminal gráfica utilizarán el editor por defecto de su distribución, pero si se accede al fichero desde la terminal, 
-o a través de `ssh` en otro servidor, con frecuencia tendrá que editar el texto utilizando uno de los conocidos editores en terminal.
+o a través de 
+[`ssh`](https://ss64.com/bash/ssh.html)
+en otro servidor, con frecuencia tendrá que editar el texto utilizando uno de los conocidos editores en terminal.
 Existen otros editores más sencillos de utilizar, pero puede que Ud. acceda a una máquina que no disponga de ellos y que no le permita 
 instalar su propio editor, de modo que conocer vi podrá sacarle de más de un apuro.
 
