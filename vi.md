@@ -55,9 +55,14 @@ Utilice el comando
 git clone git@github.com:Izaird/Vim-primeros-pasos.git
 ```
 para realizar una copia del repositorio y luego edite usando vim los diferentes ficheros del tutorial.
-Igualmente tanto
-[el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
-de una asignatura de Stanford como el de la lección
+
+`vimtutor` es un tutorial que estará instalado en su sistema Linux siempre que vi lo esté.
+Ejecute el comando `vimtutor` accederá a un fichero de texto que contiene el contenido del tutorial y en el
+que puede practicar los comandos de vi.
+
+Tanto
+[este el tutorial](https://web.stanford.edu/class/cs107/resources/vim.html) 
+de una asignatura de la Universidad de Stanford como el de la lección
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/editors/) 
 del MIT también son dos buenos tutoriales de iniciación.
 
