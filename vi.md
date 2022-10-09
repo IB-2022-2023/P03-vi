@@ -7,15 +7,16 @@ Los objetivos de esta práctica son que el alumnado:
 * Aprenda a utilizar el editor [vim](https://www.vim.org/)
   conociendo al menos los comandos básicos de edición
 * Sepa editar ficheros remotos en la VM de la asignatura usando vi
-* Sepa ejecutar comandos básicos de Linux
+* Ampliar sus conocimientos sobre comandos de Linux
 
 ### Rúbrica de evaluacion de esta práctica
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva) que se tendrán en cuenta a la hora de evaluar esta práctica:
-* Ha de acreditar que es capaz de editar ficheros remotos en la VM de la asignautra usando vi
-* Ha de acreditarse que se es capaz de conectarse a la máquina virtual de la asignatura y ejecutar comandos básicos de Linux 
+* Ha de acreditarse que se es capaz de conectarse a su máquina virtual (VM) de la asignatura 
+* Ha de acreditar que es capaz de editar ficheros remotos en su VM usando vi
+* Ha de demostrar que es capaz de ejecutar comandos Linux en su VM
 
 ### Introducción
-Todo usuario de Linux que se precie debiera saber utilizar el editor vi.  
+Todo usuario de Linux que se precie debiera saber utilizar el editor vi.
 Son varias las áreas en las que necesitará usar un editor de texto: la programación o la edición de ficheros de configuración del sistema son dos de las más relevantes.
 Hay varios editores de texto notables disponibles para sistemas operativos basados en Linux.
 Los usuarios de terminal gráfica utilizarán el editor por defecto de su distribución, pero si se accede al fichero desde la terminal, 
