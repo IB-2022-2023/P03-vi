@@ -37,8 +37,8 @@ A modo de resumen, se indican a continuación algunas de las características po
 *Informática Básica*:
 
 1. Es gratuito y de código abierto
-2. Está disponible en la mayoría, si no en todas las distribuciones de Linux existentes.
-3. Está bien documentado. Es muy fácil hallar información sobre cualquier duda sobre su uso.
+2. Está disponible en la mayoría, si no en todas las distribuciones de Linux existentes
+3. Está bien documentado. Es muy fácil hallar información sobre cualquier duda sobre su uso
 5. Es muy personalizable y extensible
 6. Tiene configuraciones portátiles
 7. Utiliza menos recursos del sistema
@@ -51,7 +51,7 @@ El [tutorial interactivo on-line](https://www.openvim.com/)
 enseña el uso del editor de forma interactiva.
 [Este otro tutorial](https://github.com/Izaird/Vim-primeros-pasos) explica lo básico del editor a través de ejemplos concretos con ficheros de texto.
 Utilice el comando 
-```
+```.bash
 git clone git@github.com:Izaird/Vim-primeros-pasos.git
 ```
 para realizar una copia del repositorio y luego edite usando vim los diferentes ficheros del tutorial.
